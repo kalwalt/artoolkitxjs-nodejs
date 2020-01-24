@@ -1,0 +1,19 @@
+{
+  "name": "test-npm-artoolkitxjs",
+  "version": "1.0.0",
+  "description": "testing artoolkitxjs",
+  "main": "index.js",
+  "devDependencies": {
+    "artoolkitX.js": "^0.0.0"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "",
+    "build": "node index.js"
+  },
+  "keywords": [
+    "artoolkitX.js"
+  ],
+  "author": "@kalwalt",
+  "license": "GPL-3.0-or-later"
+}
